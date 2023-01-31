@@ -1,15 +1,13 @@
 # Flatiron School Phase 3 Python Curriculum
 
 ## Welcome to Phase 3!
-- [Welcome to Phase 3](https://github.com/learn-co-curriculum/python-p3-welcome-to-phase-3)
-- [Installing Python on MacOS](https://github.com/learn-co-curriculum/python-p3-macos-env-python)
-- [Verify and Troubleshoot your MacOS Environment Setup](https://github.com/learn-co-curriculum/python-p3-macos-env-verification-py)
-- [Windows WSL2 Python Installation](https://github.com/learn-co-curriculum/python-p3-wsl-env-python)
-- [Verify and Troubleshoot your WSL2 Environment Setup](https://github.com/learn-co-curriculum/python-p3-wsl2-env-verification-py)
+- ~~[Welcome to Phase 3](https://github.com/learn-co-curriculum/python-p3-welcome-to-phase-3)~~
+- ~~[Installing Python on MacOS](https://github.com/learn-co-curriculum/python-p3-macos-env-python)~~
+- ~~[Verify and Troubleshoot your MacOS Environment Setup](https://github.com/learn-co-curriculum/python-p3-macos-env-verification-py)~~
 
 ## Python Fundamentals
-- [Intro to Python](https://github.com/learn-co-curriculum/phase-3-intro-to-python)
-	- [Running Python Code](https://github.com/learn-co-curriculum/phase-3-running-python-code)
+- ~~[Intro to Python](https://github.com/learn-co-curriculum/phase-3-intro-to-python)~~
+	- ~~[Running Python Code](https://github.com/learn-co-curriculum/phase-3-running-python-code)~~
 - [Common Data Types](https://github.com/learn-co-curriculum/phase-3-common-python-data-types)
 	- [Reading Python Error Messages](https://github.com/learn-co-curriculum/phase-3-reading-python-error-messages)
 	- [Functions in Python](https://github.com/learn-co-curriculum/phase-3-python-methods)
