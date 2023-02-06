@@ -10,7 +10,7 @@
 	- ~~[Running Python Code](https://github.com/learn-co-curriculum/phase-3-running-python-code)~~
 - ~~[Common Data Types](https://github.com/learn-co-curriculum/phase-3-common-python-data-types)~~
 	- ~~[Reading Python Error Messages](https://github.com/learn-co-curriculum/phase-3-reading-python-error-messages)~~
-	- [Functions in Python](https://github.com/learn-co-curriculum/phase-3-python-methods)
+	- ~~[Functions in Python](https://github.com/learn-co-curriculum/phase-3-python-methods)~~
 	- [Debugging with ipdb](https://github.com/learn-co-curriculum/phase-3-debugging-with-ipdb)
 - [Variable Scope](https://github.com/learn-co-curriculum/phase-3-python-variable-scope)
 - [Indentation in Python](https://github.com/learn-co-curriculum/phase-3-python-indentation)
