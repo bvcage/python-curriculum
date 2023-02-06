@@ -15,7 +15,7 @@
 - ~~[Variable Scope](https://github.com/learn-co-curriculum/phase-3-python-variable-scope)~~
 - ~~[Indentation in Python](https://github.com/learn-co-curriculum/phase-3-python-indentation)~~
 - ~~[Control Flow: Operators](https://github.com/learn-co-curriculum/phase-3-python-control-flow-operators)~~
-	- [Control Flow: Conditional Statements](https://github.com/learn-co-curriculum/phase-3-python-conditional-statements)
+	- ~~[Control Flow: Conditional Statements](https://github.com/learn-co-curriculum/phase-3-python-conditional-statements)~~
 	- [Control Flow: Loops](https://github.com/learn-co-curriculum/phase-3-python-loops)
 - [Conclusion to Python Fundamentals](https://github.com/learn-co-curriculum/phase-3-conclusion-to-python-fundamentals)
 
