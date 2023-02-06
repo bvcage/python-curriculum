@@ -17,7 +17,7 @@
 - ~~[Control Flow: Operators](https://github.com/learn-co-curriculum/phase-3-python-control-flow-operators)~~
 	- ~~[Control Flow: Conditional Statements](https://github.com/learn-co-curriculum/phase-3-python-conditional-statements)~~
 	- ~~[Control Flow: Loops](https://github.com/learn-co-curriculum/phase-3-python-loops)~~
-- [Conclusion to Python Fundamentals](https://github.com/learn-co-curriculum/phase-3-conclusion-to-python-fundamentals)
+- ~~[Conclusion to Python Fundamentals](https://github.com/learn-co-curriculum/phase-3-conclusion-to-python-fundamentals)~~
 
 ## Data Structures
 - [Intro to Data Structures](https://github.com/learn-co-curriculum/phase-3-intro-to-data-structures)
