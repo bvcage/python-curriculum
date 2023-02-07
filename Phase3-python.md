@@ -26,7 +26,7 @@
 - ~~[Dictionaries](https://github.com/learn-co-curriculum/phase-3-dictionaries)~~
 - ~~[Sets](https://github.com/learn-co-curriculum/phase-3-sets)~~
 	- ~~[Data Structures Lab](https://github.com/learn-co-curriculum/phase-3-data-structures-lab)~~
-- [Conclusion to Data Structures](https://github.com/learn-co-curriculum/phase-3-conclusion-to-data-structures)
+- ~~[Conclusion to Data Structures](https://github.com/learn-co-curriculum/phase-3-conclusion-to-data-structures)~~
 
 ## Python Practice
 - [Parrot Lab](https://github.com/learn-co-curriculum/python-p3-parrot-lab)
