@@ -23,7 +23,7 @@
 - ~~[Intro to Data Structures](https://github.com/learn-co-curriculum/phase-3-intro-to-data-structures)~~
 	- ~~[Sequences](https://github.com/learn-co-curriculum/phase-3-sequences)~~
 	- ~~[List Comprehension and Generator Expressions](https://github.com/learn-co-curriculum/phase-3-comprehensions-and-generators)~~
-- [Dictionaries](https://github.com/learn-co-curriculum/phase-3-dictionaries)
+- ~~[Dictionaries](https://github.com/learn-co-curriculum/phase-3-dictionaries)~~
 - [Sets](https://github.com/learn-co-curriculum/phase-3-sets)
 	- [Data Structures Lab](https://github.com/learn-co-curriculum/phase-3-data-structures-lab)
 - [Conclusion to Data Structures](https://github.com/learn-co-curriculum/phase-3-conclusion-to-data-structures)
