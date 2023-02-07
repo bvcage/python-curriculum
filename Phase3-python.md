@@ -20,7 +20,7 @@
 - ~~[Conclusion to Python Fundamentals](https://github.com/learn-co-curriculum/phase-3-conclusion-to-python-fundamentals)~~
 
 ## Data Structures
-- [Intro to Data Structures](https://github.com/learn-co-curriculum/phase-3-intro-to-data-structures)
+- ~~[Intro to Data Structures](https://github.com/learn-co-curriculum/phase-3-intro-to-data-structures)~~
 	- [Sequences](https://github.com/learn-co-curriculum/phase-3-sequences)
 	- [List Comprehension and Generator Expressions](https://github.com/learn-co-curriculum/phase-3-comprehensions-and-generators)
 - [Dictionaries](https://github.com/learn-co-curriculum/phase-3-dictionaries)
