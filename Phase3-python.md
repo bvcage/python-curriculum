@@ -25,7 +25,7 @@
 	- ~~[List Comprehension and Generator Expressions](https://github.com/learn-co-curriculum/phase-3-comprehensions-and-generators)~~
 - ~~[Dictionaries](https://github.com/learn-co-curriculum/phase-3-dictionaries)~~
 - ~~[Sets](https://github.com/learn-co-curriculum/phase-3-sets)~~
-	- [Data Structures Lab](https://github.com/learn-co-curriculum/phase-3-data-structures-lab)
+	- ~~[Data Structures Lab](https://github.com/learn-co-curriculum/phase-3-data-structures-lab)~~
 - [Conclusion to Data Structures](https://github.com/learn-co-curriculum/phase-3-conclusion-to-data-structures)
 
 ## Python Practice
