@@ -29,7 +29,7 @@
 - ~~[Conclusion to Data Structures](https://github.com/learn-co-curriculum/phase-3-conclusion-to-data-structures)~~
 
 ## Python Practice
-- [Parrot Lab](https://github.com/learn-co-curriculum/python-p3-parrot-lab)
+- ~~[Parrot Lab](https://github.com/learn-co-curriculum/python-p3-parrot-lab)~~
 - [Countdown to Midnight Lab](https://github.com/learn-co-curriculum/python-p3-countdown-to-midnight-lab)
 - [List CRUD Lab](https://github.com/learn-co-curriculum/python-p3-list-crud-lab)
 - [Badges and Schedules Lab](https://github.com/learn-co-curriculum/python-p3-badges-and-schedules-lab)
