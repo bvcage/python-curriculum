@@ -30,7 +30,7 @@
 
 ## Python Practice
 - ~~[Parrot Lab](https://github.com/learn-co-curriculum/python-p3-parrot-lab)~~
-- [Countdown to Midnight Lab](https://github.com/learn-co-curriculum/python-p3-countdown-to-midnight-lab)
+- ~~[Countdown to Midnight Lab](https://github.com/learn-co-curriculum/python-p3-countdown-to-midnight-lab)~~
 - [List CRUD Lab](https://github.com/learn-co-curriculum/python-p3-list-crud-lab)
 - [Badges and Schedules Lab](https://github.com/learn-co-curriculum/python-p3-badges-and-schedules-lab)
 - [Oxford Comma Lab](https://github.com/learn-co-curriculum/python-p3-oxford-comma-lab)
