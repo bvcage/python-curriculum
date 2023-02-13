@@ -32,7 +32,7 @@
 - ~~[Parrot Lab](https://github.com/learn-co-curriculum/python-p3-parrot-lab)~~
 - ~~[Countdown to Midnight Lab](https://github.com/learn-co-curriculum/python-p3-countdown-to-midnight-lab)~~
 - ~~[List CRUD Lab](https://github.com/learn-co-curriculum/python-p3-list-crud-lab)~~
-- [Badges and Schedules Lab](https://github.com/learn-co-curriculum/python-p3-badges-and-schedules-lab)
+- ~~[Badges and Schedules Lab](https://github.com/learn-co-curriculum/python-p3-badges-and-schedules-lab)~~
 - [Oxford Comma Lab](https://github.com/learn-co-curriculum/python-p3-oxford-comma-lab)
 - [Deli Counter Lab](https://github.com/learn-co-curriculum/python-p3-deli-counter-lab)
 - [Cartoon Collections Lab](https://github.com/learn-co-curriculum/python-p3-cartoon-collections-lab)
